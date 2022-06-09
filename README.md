@@ -1,7 +1,10 @@
 - 👋  Hi,
 I am Lin chien cheng
+
 Mainly engaged in software related work
+
 Developed programs such as MES/ERP
+
 From time to time to share working program examples
 
 <!---
